@@ -25,7 +25,7 @@ My journey with coding began at a young age of 13, with a fervent curiosity that
 
 While I haven't embarked on any solo projects yet, I had assisted my father in his freelance work, building apps, websites, web applications and web servers for his clients. This experience provided invaluable exposure to the practical realities of software development and instilled in me the importance of delivering solutions that meet client needs.
 
-Currently, I'm a first-year B.Tech. CSE student at Vel Tech University, eager to delve deeper into the theoretical and practical aspects of computer science. Beyond the curriculum, I'm actively seeking opportunities to enhance my skills and contribute to real-world projects.
+Currently, I'm a second-year B.Tech. CSE student at Vel Tech University, eager to delve deeper into the theoretical and practical aspects of computer science. Beyond the curriculum, I'm actively seeking opportunities to enhance my skills and contribute to real-world projects.
 
 While my current skillset leans towards mobile and web development, I'm particularly intrigued by the possibilities within AI and Machine Learning. I'm always eager to explore new areas of computer science and expand my knowledge base.
 
