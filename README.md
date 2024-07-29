@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px" />
 
 ## 🚀 About Me
-I'm Lokesh.T.R, Freshman, B.Tech. CSE at Vel Tech University.
+I'm Lokesh.T.R, Sophomore, B.Tech. CSE at Vel Tech University.
 
 My journey with coding began at a young age of 13, with a fervent curiosity that led me to self-teach iOS development (Swift), Android development (Kotlin), and web development (React). My passion for exploration extended beyond these core languages, as I ended up learning many other programming languages and frameworks like C / C++, Java, Python, PHP, Laravel, SwiftUI, UIKit, Jetpack Compose, etc. I also learnt quite a lot building good User Interfaces (UI Design) & App Icon Design in my app development journey.
 
