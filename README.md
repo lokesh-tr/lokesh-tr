@@ -14,26 +14,44 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="./banner.png" />
+<img src="https://media.licdn.com/dms/image/v2/D5616AQHvA7eOq5DtkQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1726848166557?e=1763596800&v=beta&t=V8pqMog_xuSpkLnnWAaAeGIwQzkcCSfs0NH27aGD64w" />
 
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px" />
 
-[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/lokesh-tr)
-[![x-formerly-twitter](https://img.shields.io/badge/X_(Formerly_Twitter)-000000?style=for-the-badge&logo=X&logoColor=white)](https://www.x.com/lokesh_t_r)
+[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/lokeshtr)
+[![x-formerly-twitter](https://img.shields.io/badge/X_(Formerly_Twitter)-000000?style=for-the-badge&logo=X&logoColor=white)](https://www.x.com/lokeshtrajan)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/lokesh-tr)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:lokesh.t.r.official@gmail.com)
 
 ## 🚀 About Me
 
-I'm Lokesh.T.R, Sophomore, B.Tech. Computer Science and Engineering at Vel Tech University.
+I'm Lokesh.T.R, Pre final year student, B.Tech. Computer Science and Engineering at Vel Tech University.
 
-My journey with coding began at a young age of 13, with a fervent curiosity that led me to self-learn various programming languages such as C++, Python, Java, C, Swift, Kotlin, PHP, etc and many tools, libraries and frameworks along the way.
+My journey with coding began at a young age of 13, with a fervent curiosity that led me to self-learn various programming languages such as C/C++, Python, Swift, Kotlin, Javascript, etc., many tools, libraries and frameworks along the way.
 
-Moreover, I worked for five years in my dad's freelance business where I took on various roles such as iOS App Developer using Swift & SwiftUI, Android App developer using Kotlin and XML Layouts, Flutter and Dart, or Android Webviews and then as a Full Stack Developer specialised in the LAMP Stack (Linux, Apache, MySQL, PHP) using the Laravel Framework, Livewire, jQuery & React developing solutions for various clients who run their business in the Kanchipuram Town.
+Moreover, I volunteerly worked for five years in my dad's freelance business (known as Jeenograph / Jeenoapps) where I took on various roles such as iOS App Developer using Swift & SwiftUI, Android App developer using Kotlin and XML Layouts, Flutter and Dart, or Android Webviews and then as a Full Stack Developer specialised in the LAMP Stack (Linux, Apache, MySQL, PHP) using the Laravel Framework, Livewire, jQuery & React developing solutions for various clients who run their business in the Kanchipuram Town.
 
 I had participated in Google Summer of Code 2024, an initiative by Google to introduce developers to open source software (OSS) development, and also successfully completed my work with the Swift org., an OSS organisation by Apple primarily focusing on the Swift Programming Language and its ecosystem, under the guidance of my mentors, Alex Hoppen (Developer Tools @ Apple) & Adam Fowler (Swift Server-side Work Group), from the Swift Community. 
 
-Currently, I'm a second-year B.Tech. CSE student at Vel Tech University, eager to delve deeper into the theoretical and practical aspects of computer science. Beyond the curriculum, I'm actively seeking opportunities to enhance my skills and contribute to real-world projects.
+I also won the Swift Student Challenge 2025 conducted by Apple with an app that teaches kids and young adults on how an LLM works through fun and interactive mini games.
+
+Currently, I'm a pre final year B.Tech. CSE student at Vel Tech University, eager to delve deeper into the theoretical and practical aspects of computer science. Beyond the curriculum, I'm actively seeking opportunities to enhance my skills and contribute to real-world projects.
+
+My interests include, but not limited to:
+- AI & ML Research
+- App & Web Development
+- Compilers & Developer Tools
+- Design
+
+Here's what I bring to the table:
+ - Strong foundation in app and web development with Swift, Kotlin, TypeScript and PHP.
+ - Proven ability to learn new languages & frameworks and adapt to different coding environments.
+ - Experience collaborating on client projects and delivering results within deadlines.
+ - Excellent problem-solving skills honed through personal exploration and academic challenges.
+
+Apart from all that, playing Chess and speed-solving a Rubik's Cube are my hobbies.
+
+Feel free to reach out and connect!
 
 ## ❤️ My interests:
 
